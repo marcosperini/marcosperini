@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcosperini
 - 👀 I’m interested in ...python, forex, stocks ansi c
-- 🌱 I’m currently learning ...python, learning machine an web developer in python web sockets and research for web 3.0 and lisity for blockchain
+- 🌱 I’m currently learning ...python, learning machine an web developer in python web sockets and research for web 3.0 and solidity for blockchain
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
